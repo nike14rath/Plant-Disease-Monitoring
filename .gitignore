@@ -1,0 +1,73 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+tensorflow_env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects\db/
+
+# -------------------------
+# Machine Learning Models
+# -------------------------
+# *.h5
+# *.keras
+# *.tflite
+# *.pb
+# *.onnx
+
+# Converted model headers
+# model.h
+# *_model.h
+
+# -------------------------
+# Dataset
+# -------------------------
+train/
+valid/
+test/
+dataset/
+data/
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+logs/
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+
+# -------------------------
+# OS Files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Build / Temporary Files
+# -------------------------
+build/
+dist/
+*.tmp
+*.cache
+
+# -------------------------
+# Arduino / ESP32
+# -------------------------
+*.bin
+*.elf
+*.map
