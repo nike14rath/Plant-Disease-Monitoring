@@ -14,6 +14,7 @@ All model-related files are located in the following folder:
 
 
 This folder contains:
+`pretrained_final_light_model`
 
 - **training_history.json** → Training history of the model
 - **trained_model.h5 / .keras** → Trained TensorFlow model
